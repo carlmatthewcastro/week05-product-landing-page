@@ -4,3 +4,4 @@
 .env.*
 /public/build/
 /storage/*.key
+.phpunit.result.cache
