@@ -1,4 +1,4 @@
-# Shum's Cafe Product Landing Page
+# Shum's Cafe Landing Page
 
 ## Introduction
 
@@ -155,11 +155,11 @@ Before-and-after documentation can be added later if an earlier wireframe captur
 
 ### Responsive Device Views
 
-![Desktop Layout](screenshots/desktop-layout.svg)
+![Desktop Layout](screenshots/desktop-layout.png)
 
-![Tablet Layout](screenshots/tablet-layout.svg)
+![Tablet Layout](screenshots/tablet-layout.png)
 
-![Mobile Layout](screenshots/mobile-layout.svg)
+![Mobile Layout](screenshots/mobile-layout.png)
 
 ### Page Sections
 
