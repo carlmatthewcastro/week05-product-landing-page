@@ -147,7 +147,7 @@ week05-product-landing-page/
 
 ## Screenshots
 
-The responsive preview assets are included in `screenshots/`. The three views use the recommended viewport sizes above.
+The responsive preview assets are real captures from the running Laravel website. They show the first viewport only so the README stays compact and easy to scan.
 
 ### Before and After
 
@@ -160,20 +160,6 @@ Before-and-after documentation can be added later if an earlier wireframe captur
 ![Tablet Layout](screenshots/tablet-layout.png)
 
 ![Mobile Layout](screenshots/mobile-layout.png)
-
-### Page Sections
-
-![Navigation Bar](screenshots/navigation-bar.svg)
-
-![Hero Section](screenshots/hero-section.svg)
-
-![Features Section](screenshots/features-section.svg)
-
-![Pricing Cards](screenshots/pricing-cards.svg)
-
-![Testimonials](screenshots/testimonials.svg)
-
-![Footer](screenshots/footer.svg)
 
 ### Project Structure
 
