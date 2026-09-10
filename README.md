@@ -147,41 +147,39 @@ week05-product-landing-page/
 
 ## Screenshots
 
-Place screenshots in `screenshots/` using these filenames. The three responsive captures should use the recommended viewport sizes above.
+The responsive preview assets are included in `screenshots/`. The three views use the recommended viewport sizes above.
 
 ### Before and After
 
-![Before Design](documentation/before-design.png)
-
-![After Design](documentation/after-design.png)
+Before-and-after documentation can be added later if an earlier wireframe capture is required.
 
 ### Responsive Device Views
 
-![Desktop Layout](screenshots/desktop-layout.png)
+![Desktop Layout](screenshots/desktop-layout.svg)
 
-![Tablet Layout](screenshots/tablet-layout.png)
+![Tablet Layout](screenshots/tablet-layout.svg)
 
-![Mobile Layout](screenshots/mobile-layout.png)
+![Mobile Layout](screenshots/mobile-layout.svg)
 
 ### Page Sections
 
-![Navigation Bar](screenshots/navigation-bar.png)
+![Navigation Bar](screenshots/navigation-bar.svg)
 
-![Hero Section](screenshots/hero-section.png)
+![Hero Section](screenshots/hero-section.svg)
 
-![Features Section](screenshots/features-section.png)
+![Features Section](screenshots/features-section.svg)
 
-![Pricing Cards](screenshots/pricing-cards.png)
+![Pricing Cards](screenshots/pricing-cards.svg)
 
-![Testimonials](screenshots/testimonials.png)
+![Testimonials](screenshots/testimonials.svg)
 
-![Footer](screenshots/footer.png)
+![Footer](screenshots/footer.svg)
 
 ### Project Structure
 
-![VS Code Project Structure](screenshots/vscode-project-structure.png)
+![VS Code Project Structure](screenshots/vscode-project-structure.svg)
 
-![Blade Components Folder](screenshots/blade-components-folder.png)
+![Blade Components Folder](screenshots/blade-components-folder.svg)
 
 ## Before-and-After Evolution
 
@@ -219,16 +217,10 @@ php artisan test
 
 ## GitHub Repository
 
-Add the repository URL after uploading the project:
+Repository:
 
 ```text
-Repository: https://github.com/your-username/week05-product-landing-page
-```
-
-Optional project link:
-
-```text
-Live demo: https://your-deployment-url.example
+https://github.com/carlmatthewcastro/week05-product-landing-page
 ```
 
 ## LinkedIn Portfolio Post
@@ -239,6 +231,6 @@ The page presents the cafe story, Filipino comfort food, ordering customization,
 
 This project helped me practice mobile-first design, CSS Grid and Flexbox, reusable Blade architecture, accessible UI content, interactive states, and conversion-focused UX.
 
-Repository: `https://github.com/your-username/week05-product-landing-page`
+Repository: `https://github.com/carlmatthewcastro/week05-product-landing-page`
 
 #Laravel #TailwindCSS #BladeComponents #AlpineJS #ResponsiveWebDesign #WebDevelopment #ITST302 #UXDesign
