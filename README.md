@@ -153,48 +153,48 @@ The responsive preview assets are real captures from the running Laravel website
 
 <table>
 <tr>
-<td align="center"><img src="screenshots/Before.jpg" width="420" height="250" style="object-fit: contain" alt="Before landing page"></td>
-<td align="center"><img src="screenshots/After.png" width="420" height="250" style="object-fit: contain" alt="After landing page"></td>
+<td align="center"><img src="screenshots/Before.jpg" width="360" alt="Before landing page"></td>
+<td align="center"><img src="screenshots/After.png" width="360" alt="After landing page"></td>
 </tr>
 <tr>
 <td align="center"><strong>Before</strong></td>
 <td align="center"><strong>After</strong></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/desktop-layout.png" width="420" height="250" style="object-fit: contain" alt="Desktop layout"></td>
-<td align="center"><img src="screenshots/tablet-layout.png" width="420" height="250" style="object-fit: contain" alt="Tablet layout"></td>
+<td align="center"><img src="screenshots/desktop-layout.png" width="360" alt="Desktop layout"></td>
+<td align="center"><img src="screenshots/tablet-layout.png" width="360" alt="Tablet layout"></td>
 </tr>
 <tr>
 <td align="center"><strong>Desktop Layout</strong></td>
 <td align="center"><strong>Tablet Layout</strong></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/mobile-layout.png" width="420" height="250" style="object-fit: contain" alt="Mobile layout"></td>
-<td align="center"><img src="screenshots/Header.png" width="420" height="250" style="object-fit: contain" alt="Header section"></td>
+<td align="center"><img src="screenshots/mobile-layout.png" width="360" alt="Mobile layout"></td>
+<td align="center"><img src="screenshots/Header.png" width="360" alt="Header section"></td>
 </tr>
 <tr>
 <td align="center"><strong>Mobile Layout</strong></td>
 <td align="center"><strong>Header</strong></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/Pricing%20Cards.png" width="420" height="250" style="object-fit: contain" alt="Pricing cards"></td>
-<td align="center"><img src="screenshots/Testimonials.png" width="420" height="250" style="object-fit: contain" alt="Testimonials section"></td>
+<td align="center"><img src="screenshots/Pricing%20Cards.png" width="360" alt="Pricing cards"></td>
+<td align="center"><img src="screenshots/Testimonials.png" width="360" alt="Testimonials section"></td>
 </tr>
 <tr>
 <td align="center"><strong>Pricing Cards</strong></td>
 <td align="center"><strong>Testimonials</strong></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/Footer.png" width="420" height="250" style="object-fit: contain" alt="Footer section"></td>
-<td align="center"><img src="screenshots/GitHub%20Repository.png" width="420" height="250" style="object-fit: contain" alt="GitHub repository"></td>
+<td align="center"><img src="screenshots/Footer.png" width="360" alt="Footer section"></td>
+<td align="center"><img src="screenshots/GitHub%20Repository.png" width="360" alt="GitHub repository"></td>
 </tr>
 <tr>
 <td align="center"><strong>Footer</strong></td>
 <td align="center"><strong>GitHub Repository</strong></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/VS%20Code%20Project%20Structure.png" width="420" height="250" style="object-fit: contain" alt="VS Code project structure"></td>
-<td align="center"><img src="screenshots/Blade%20Components%20Folder.png" width="420" height="250" style="object-fit: contain" alt="Blade components folder"></td>
+<td align="center"><img src="screenshots/VS%20Code%20Project%20Structure.png" width="360" alt="VS Code project structure"></td>
+<td align="center"><img src="screenshots/Blade%20Components%20Folder.png" width="360" alt="Blade components folder"></td>
 </tr>
 <tr>
 <td align="center"><strong>VS Code Project Structure</strong></td>
