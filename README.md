@@ -153,6 +153,14 @@ The responsive preview assets are real captures from the running Laravel website
 
 <table>
 <tr>
+<td align="center"><img src="screenshots/tablet-layout.png" width="360" alt="Tablet layout"></td>
+<td align="center"><img src="screenshots/mobile-layout.png" width="360" alt="Mobile layout"></td>
+</tr>
+<tr>
+<td align="center"><strong>Tablet Layout</strong></td>
+<td align="center"><strong>Mobile Layout</strong></td>
+</tr>
+<tr>
 <td align="center"><img src="screenshots/Before.jpg" width="360" alt="Before landing page"></td>
 <td align="center"><img src="screenshots/After.png" width="360" alt="After landing page"></td>
 </tr>
@@ -162,18 +170,10 @@ The responsive preview assets are real captures from the running Laravel website
 </tr>
 <tr>
 <td align="center"><img src="screenshots/desktop-layout.png" width="360" alt="Desktop layout"></td>
-<td align="center"><img src="screenshots/tablet-layout.png" width="360" alt="Tablet layout"></td>
-</tr>
-<tr>
-<td align="center"><strong>Desktop Layout</strong></td>
-<td align="center"><strong>Tablet Layout</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="screenshots/mobile-layout.png" width="360" alt="Mobile layout"></td>
 <td align="center"><img src="screenshots/Header.png" width="360" alt="Header section"></td>
 </tr>
 <tr>
-<td align="center"><strong>Mobile Layout</strong></td>
+<td align="center"><strong>Desktop Layout</strong></td>
 <td align="center"><strong>Header</strong></td>
 </tr>
 <tr>
